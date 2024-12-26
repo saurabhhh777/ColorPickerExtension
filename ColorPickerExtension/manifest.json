@@ -1,0 +1,15 @@
+{
+    "name": "Color Picker",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "images/logo.jpg"
+    },
+    "icons": {
+      "48": "images/logo.jpg"
+    },
+    "permissions": ["activeTab"]
+  }
+  
