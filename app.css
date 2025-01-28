@@ -1,0 +1,37 @@
+body{
+    height: 150px;
+    width: 300px;
+    background-color: #11212D;
+
+
+}
+
+.all-content{
+    display: center;
+    color: #CCD0CF;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.pickcolor{
+    background-color: #4A5C6A;
+    border: 0px;
+    border-radius: 12px;
+    height: 40px;
+    width: 180px;
+
+}
+
+.pickcolor:active{
+    background-color: #9BA8AB;
+}
+
+
+.result-color{
+    color: white;
+    border-radius: 3px;
+    padding: auto;
+    height: 40px;
+    width: 294px;
+}
